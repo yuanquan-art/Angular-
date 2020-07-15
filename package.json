@@ -2,8 +2,8 @@
   "name": "angular-tutorial",
   "version": "0.0.1",
   "main": "index.html",
-  "repository": "https://github.com/lipengzhou/angular-tutorial.git",
-  "author": "lipengzhou <lpzmail@163.com>",
+  "repository": "",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "dev": "docsify serve ./ --port 5080",
